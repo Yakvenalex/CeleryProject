@@ -1,0 +1,8 @@
+pydantic-settings==2.6.1
+celery[redis]
+eventlet==0.38.1
+redis
+loguru
+aiohttp
+requests
+flower
